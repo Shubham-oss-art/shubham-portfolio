@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/shubham-portfolio/static/css/main.8b62c908.chunk.css",
+    "main.js": "/shubham-portfolio/static/js/main.44197c1b.chunk.js",
+    "main.js.map": "/shubham-portfolio/static/js/main.44197c1b.chunk.js.map",
+    "runtime-main.js": "/shubham-portfolio/static/js/runtime-main.d76e3b14.js",
+    "runtime-main.js.map": "/shubham-portfolio/static/js/runtime-main.d76e3b14.js.map",
+    "static/js/2.16e4d093.chunk.js": "/shubham-portfolio/static/js/2.16e4d093.chunk.js",
+    "static/js/2.16e4d093.chunk.js.map": "/shubham-portfolio/static/js/2.16e4d093.chunk.js.map",
+    "static/js/3.bbfb8385.chunk.js": "/shubham-portfolio/static/js/3.bbfb8385.chunk.js",
+    "static/js/3.bbfb8385.chunk.js.map": "/shubham-portfolio/static/js/3.bbfb8385.chunk.js.map",
+    "index.html": "/shubham-portfolio/index.html",
+    "static/css/main.8b62c908.chunk.css.map": "/shubham-portfolio/static/css/main.8b62c908.chunk.css.map",
+    "static/js/2.16e4d093.chunk.js.LICENSE.txt": "/shubham-portfolio/static/js/2.16e4d093.chunk.js.LICENSE.txt",
+    "static/media/coding.png": "/shubham-portfolio/static/media/coding.3f842482.png",
+    "static/media/instagram.png": "/shubham-portfolio/static/media/instagram.a5bf99b9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d76e3b14.js",
+    "static/js/2.16e4d093.chunk.js",
+    "static/css/main.8b62c908.chunk.css",
+    "static/js/main.44197c1b.chunk.js"
+  ]
+}
